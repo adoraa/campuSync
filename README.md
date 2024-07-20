@@ -1,7 +1,3 @@
-Sure! Below is a detailed README template for your project. You can customize the content as needed.
-
----
-
 # CampusSync
 
 CampusSync is a Facilities Management System designed specifically for higher institutions and organizations in Nigeria. It streamlines the management of utilities and maintenance tasks, providing a comprehensive solution to track the maintenance lifecycle of facilities.
