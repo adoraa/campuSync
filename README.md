@@ -123,4 +123,4 @@ For any questions or feedback, please contact us at:
 
 - **Email**: support@campusync.com
 
-## Try it here : [csync](http://csync.000.pe/)
+## Try it here : [csync](https://csync.000.pe/)
