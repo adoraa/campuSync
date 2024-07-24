@@ -1,6 +1,6 @@
-# CampusSync
+# CampuSync
 
-CampusSync is a Facilities Management System designed specifically for higher institutions and organizations in Nigeria. It streamlines the management of utilities and maintenance tasks, providing a comprehensive solution to track the maintenance lifecycle of facilities.
+CampuSync is a Facilities Management System designed specifically for higher institutions and organizations in Nigeria. It streamlines the management of utilities and maintenance tasks, providing a comprehensive solution to track the maintenance lifecycle of facilities.
 
 ![App interface](app.jpg)
 
@@ -14,10 +14,11 @@ CampusSync is a Facilities Management System designed specifically for higher in
 - [Contributing](#contributing)
 - [License](#license)
 - [Contact](#contact)
+- [Demo](#try-it-here)
 
 ## Introduction
 
-CampusSync is developed to help higher institutions in Nigeria manage their facilities efficiently. It provides features such as utility maintenance lifecycle tracking, task management, and real-time notifications to ensure that maintenance tasks are completed promptly.
+CampuSync is developed to help higher institutions in Nigeria manage their facilities efficiently. It provides features such as utility maintenance lifecycle tracking, task management, and real-time notifications to ensure that maintenance tasks are completed promptly.
 
 ## Features
 
@@ -51,7 +52,7 @@ CampusSync is developed to help higher institutions in Nigeria manage their faci
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/yourusername/campussync.git
+    git clone https://github.com/adoraa/campusync.git
     cd campussync
     ```
 
@@ -120,8 +121,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For any questions or feedback, please contact us at:
 
-- **Email**: support@campussync.com
+- **Email**: support@campusync.com
 
----
-
-This README provides a comprehensive overview of the project and should help users and contributors get started quickly. Feel free to customize any sections as needed.
+## Try it here : [csync](http://csync.000.pe/)
